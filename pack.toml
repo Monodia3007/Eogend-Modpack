@@ -1,0 +1,13 @@
+name = "Eogend Modpack"
+author = "Monodia3007, AlexisHuvier"
+version = "0.3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2c9a1e56e67509244b30aeb8ebab585a4a35df13e15283bc62bed39df26afb20"
+
+[versions]
+fabric = "0.15.4"
+minecraft = "1.20.1"
