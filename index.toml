@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/bug_report.md"
-hash = "0c8d64f29fb4536513653bf8c97da30f3340e2041b91c8952db1515d6b23a7b3"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/feature_request.md"
-hash = "1f48c52f209a971b8e7eae4120144d28fcf8ee38a7778a7b4d8cf1ab356617d2"
-
-[[files]]
-file = "CODE_OF_CONDUCT.md"
-hash = "df06674f829f5a803541e23d8d67016d412a7a84bc72edc05abdccb1cce329d1"
-
-[[files]]
-file = "LICENSE"
-hash = "ea4b07b7d95a867ed3c954eca7f18974dc3d476773781652e842e53d728fdebf"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
