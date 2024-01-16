@@ -16,7 +16,7 @@ Fixed an issue with EssentialMod
 
 ## V0.2.0
 ### Added:
-- tendhal 1.4.1-1.20 for better book formatting
+- Stendhal 1.4.1-1.20 for better book formatting
 - Craftify 1.12.0 for access to music library in game
 - Simple RPC 3.2.4 for Discord rich presence
 - Detail Armor Bar 2.6.3+1.20.1-fabric for detailled armor bar
