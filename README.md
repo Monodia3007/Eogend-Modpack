@@ -1,5 +1,7 @@
 # Eogend Modpack
 ## Links
+<a href="https://modrinth.com/modpack/eogend-modpack">![Modrinth Downloads](https://img.shields.io/modrinth/dt/ONfwffaf?style=for-the-badge&logo=modrinth)</a>
+<a href="https://github.com/Monodia3007/Eogend-Modpack/blob/main/CHANGELOG.md">![Static Badge](https://img.shields.io/badge/Changelog-purple?style=for-the-badge&logo=git&labelColor=grey)</a>
 
 
 ## Description
