@@ -1,6 +1,302 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "2adcfb320ca5e768209f45b9d52e620fb43f8525c3de542bf294b22815c38da0"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "532b85b2b93dad36680714da4cbc670b3ddfbc1b1e344ac79062538028f64cff"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "65ca19aa9ed883728c4ea66a2a562ddba219f3bfa50da4c2b104ce51a200dcf3"
+
+[[files]]
+file = "config/betterpingdisplay.json"
+hash = "d9b413555ca6e7add44924c507e5ec5dc8db060f9b04fdfefcd505e61faec0e0"
+
+[[files]]
+file = "config/bobby.conf"
+hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
+
+[[files]]
+file = "config/borderlessmining.json"
+hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
+
+[[files]]
+file = "config/camerautils/camerautils.properties"
+hash = "510a698378e674e4bf95ba6789383044c1c61a5d2bffb5a8f6da2296cc2f6931"
+
+[[files]]
+file = "config/capes.json5"
+hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
+
+[[files]]
+file = "config/citresewn-defaults.json"
+hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
+
+[[files]]
+file = "config/citresewn.json"
+hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
+
+[[files]]
+file = "config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/craftify.toml"
+hash = "c7305b3e2bff39c2ad64d2b7e3a8bf5d36096864fa45f0052fcddc820a13528d"
+
+[[files]]
+file = "config/craftpresence.json"
+hash = "7bc6f446b28fbde64325ca6524bf0a64c2e1209710283a4b2aab6ac2ec7aaf7c"
+
+[[files]]
+file = "config/detailarmorbar.json"
+hash = "f438b26bc5e19856bc35f07ceae93a76ddbf4d9312941f8be817f53192b88560"
+
+[[files]]
+file = "config/do_a_barrel_roll-client.json"
+hash = "720a68823073b44073de52c39b91842eadbcc242a7d4d4edf118a3a6a375b2b5"
+
+[[files]]
+file = "config/do_a_barrel_roll-server.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "03d08d3741d8e047a70c178dfdd0908ea7f33df0866cac10cd29d0b26d8711ea"
+
+[[files]]
+file = "config/dynamiccrosshair.json5"
+hash = "427aadd29aea1256db321fcac7f33d3fd3e858324d85269a77deee7a0614c701"
+
+[[files]]
+file = "config/dynamicfps.toml"
+hash = "f5474c5f2aa9e04cc88211eb6c0b7c4d3835814ba7047252edf624355862caa6"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "9f698bfef085f5c2bcef1cd68bc797ba5076bc3bdd90469dea00d4f2e6292e64"
+
+[[files]]
+file = "config/fabrishot.properties"
+hash = "348c13356df71f6baeddf9b253705cec6fd9f0760691a53ef9ad1c825338e713"
+
+[[files]]
+file = "config/firstperson.json"
+hash = "5bc4913e526bade1e3e7066b3e9c19d2880dc863de0d997e5430f8c8ab11be58"
+
+[[files]]
+file = "config/freecam.json5"
+hash = "eb65cf61df379fd5b5ba3a3f289b6f530c03cd29f30962998b9c4d04417ed545"
+
+[[files]]
+file = "config/inventoryprofilesnext/eogend.omgcraft.fr/lockSlots.txt"
+hash = "0d2caefeb547c939b83a598e89554af85786c31a696e5d127ae913d37a7f4e15"
+
+[[files]]
+file = "config/inventoryprofilesnext/eogend.omgcraft.fr/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
+
+[[files]]
+file = "config/inventoryprofilesnext/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "config/iris.properties"
+hash = "3333d1ce1b027351a2c00a0c94d9ec408f2f3b60a014823f96c04b24ef78786e"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "31fb3894f95c9b399174e92bd235427b75f572c9ca831ad4a5e079a286c66615"
+
+[[files]]
+file = "config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+
+[[files]]
+file = "config/litematica.json"
+hash = "16e97b489aed8e087e58e1b89c30fd6516c6d5bafa1d64641202e33bc6d060c5"
+
+[[files]]
+file = "config/litematica/litematica_buildworld.json"
+hash = "13594a5e5d5e704357190df430a11adfca8958900e238a986a78c252d056d9d5"
+
+[[files]]
+file = "config/litematica/litematica_buildworld_dim_minecraft_overworld.json"
+hash = "9c07384f4e73aca4190dd4f614e9646ba3f334733cbf2a9c72742a780f06b4b4"
+
+[[files]]
+file = "config/litematica/litematica_eogend.omgcraft.fr.json"
+hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
+
+[[files]]
+file = "config/litematica/litematica_eogend.omgcraft.fr_dim_minecraft_asor.json"
+hash = "91ec930e6ec146d08159934297c78984003024ed6350a32b802759bff5fd0588"
+
+[[files]]
+file = "config/litematica/litematica_eogend.omgcraft.fr_dim_minecraft_deidrune.json"
+hash = "91ec930e6ec146d08159934297c78984003024ed6350a32b802759bff5fd0588"
+
+[[files]]
+file = "config/litematica/litematica_eogend.omgcraft.fr_dim_minecraft_domaine_blanc.json"
+hash = "ca7402d4beb1af98a998c676ccefe3f8d4b8e9c8bc07b474668a7b09f8bd8b1e"
+
+[[files]]
+file = "config/litematica/litematica_eogend.omgcraft.fr_dim_minecraft_fee2.json"
+hash = "ca7402d4beb1af98a998c676ccefe3f8d4b8e9c8bc07b474668a7b09f8bd8b1e"
+
+[[files]]
+file = "config/litematica/litematica_eogend.omgcraft.fr_dim_minecraft_jeux.json"
+hash = "078e435becdbcaeae0021d4ede21f26a47e9de9564a7de832a0e84dcf679c029"
+
+[[files]]
+file = "config/litematica/litematica_eogend.omgcraft.fr_dim_minecraft_mapeau.json"
+hash = "ca7402d4beb1af98a998c676ccefe3f8d4b8e9c8bc07b474668a7b09f8bd8b1e"
+
+[[files]]
+file = "config/litematica/litematica_eogend.omgcraft.fr_dim_minecraft_mapeau_surface.json"
+hash = "7b864d003ac65f35fedf7462603b2f82a4e33050f9e42ff72a6195b533a219be"
+
+[[files]]
+file = "config/litematica/litematica_eogend.omgcraft.fr_dim_minecraft_maswodor.json"
+hash = "078e435becdbcaeae0021d4ede21f26a47e9de9564a7de832a0e84dcf679c029"
+
+[[files]]
+file = "config/litematica/litematica_eogend.omgcraft.fr_dim_minecraft_onai.json"
+hash = "ca7402d4beb1af98a998c676ccefe3f8d4b8e9c8bc07b474668a7b09f8bd8b1e"
+
+[[files]]
+file = "config/litematica/litematica_eogend.omgcraft.fr_dim_minecraft_overworld.json"
+hash = "078e435becdbcaeae0021d4ede21f26a47e9de9564a7de832a0e84dcf679c029"
+
+[[files]]
+file = "config/litematica/litematica_eogend.omgcraft.fr_dim_minecraft_tasheau.json"
+hash = "ca7402d4beb1af98a998c676ccefe3f8d4b8e9c8bc07b474668a7b09f8bd8b1e"
+
+[[files]]
+file = "config/litematica/litematica_lilith-monodia.eu.json"
+hash = "8ef26a7af717c35edfd55a22f71005e82a83e55c60c1f077b9575a7470f2c073"
+
+[[files]]
+file = "config/litematica/litematica_lilith-monodia.eu_dim_minecraft_build_world.json"
+hash = "078e435becdbcaeae0021d4ede21f26a47e9de9564a7de832a0e84dcf679c029"
+
+[[files]]
+file = "config/litematica/litematica_lilith-monodia.eu_dim_minecraft_lobby.json"
+hash = "078e435becdbcaeae0021d4ede21f26a47e9de9564a7de832a0e84dcf679c029"
+
+[[files]]
+file = "config/litematica/litematica_lilith-monodia.eu_dim_minecraft_overworld.json"
+hash = "078e435becdbcaeae0021d4ede21f26a47e9de9564a7de832a0e84dcf679c029"
+
+[[files]]
+file = "config/litematica/litematica_lilith-monodia.eu_dim_minecraft_plot_world.json"
+hash = "078e435becdbcaeae0021d4ede21f26a47e9de9564a7de832a0e84dcf679c029"
+
+[[files]]
+file = "config/litematica/litematica_lilith-monodia.eu_dim_minecraft_the_end.json"
+hash = "078e435becdbcaeae0021d4ede21f26a47e9de9564a7de832a0e84dcf679c029"
+
+[[files]]
+file = "config/litematica/litematica_lilith-monodia.eu_dim_minecraft_the_nether.json"
+hash = "078e435becdbcaeae0021d4ede21f26a47e9de9564a7de832a0e84dcf679c029"
+
+[[files]]
+file = "config/litematica/litematica_lilith-monodia.eu_dim_minecraft_world.json"
+hash = "078e435becdbcaeae0021d4ede21f26a47e9de9564a7de832a0e84dcf679c029"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/malilib.json"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
+file = "config/modelfix-client.json"
+hash = "d7435276b71f9ed4a49da3c06ec54004ba8b1ed46f3c32ea3a000737507d3e7b"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "b6dee378d9a8fd0f7f08bcc232e2ded023841b52a54a5f20d79d7062bb0b13a9"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "c3500e6de8e124ae55a4636dab1fbe1828aa316c0490ebd6a17007b923813077"
+
+[[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "75fdeae053c08959a8e8066bde147bdf66dfa710de62da984740a7f7d70d5a2f"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "e5cdda2889f152d6cc74df3e2b2014d54300e0f59a69dc7436c8a01147fa6ffb"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "971377be330405b5950f878070f62150cf71463ecccfd0419bda98513cd3b19d"
+
+[[files]]
+file = "config/status-effect-bars.json"
+hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
+
+[[files]]
+file = "config/stendhal/stendhal.properties"
+hash = "1af09ec5636236f55cf8c4c6f841ee7ea1b1ce8835883b2454eb58d317b42352"
+
+[[files]]
+file = "config/visuality.json"
+hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
+
+[[files]]
+file = "config/waveycapes.json"
+hash = "c2a45dd785e1515f7f7fa0fc3158809248a26746e665710f7b831195a0b360d2"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
@@ -229,6 +525,18 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "fade244d31c2deeb9ea1b3f698e56595b894f3ea7df3734463ee627d31860d79"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "8872cd15da2ff424d880737baeb1a87c34702e96b2ec3056542c88268def0ac0"
+
+[[files]]
+file = "resourcepacks/Eogend-2.6.0.zip"
+hash = "cd59c1ebff356d63860ad30cb8b120a607ec539fab49164406e1cbb7cefe8868"
+
+[[files]]
+file = "servers.dat"
+hash = "06aedc3b876fd26f86889021e9d6fd1f7a161d3cdaadbe7ad3c1a4e63831aa99"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
